@@ -1,0 +1,10 @@
+Alice 101 85
+Bob 102 76
+Charlie 103 92
+Diana 104 88
+Eve 105 79
+Frank 106 91
+Grace 107 84
+Henry 108 73
+Ivy 109 95
+Jack 110 81
